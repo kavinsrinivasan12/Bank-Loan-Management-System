@@ -67,7 +67,3 @@ cleaning alongside analysis.
 - **Approval rate (Q4):** since the dataset has no explicit "Approved" status,
   approval was defined as any loan that progressed past `Pending Approval`.
 
-## Files
-
-- `bank_loan_management_system_datasets.zip` — all 8 CSV tables
-- `bank_loan_management_system_queries.sql` — all solved queries
